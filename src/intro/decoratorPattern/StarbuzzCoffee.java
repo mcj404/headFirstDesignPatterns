@@ -3,7 +3,6 @@ package intro.decoratorPattern;
 import intro.decoratorPattern.abstractClasses.Beverage;
 import intro.decoratorPattern.classes.coffees.DarkRoast;
 import intro.decoratorPattern.classes.coffees.Espresso;
-import intro.decoratorPattern.classes.coffees.HouseBlend;
 import intro.decoratorPattern.classes.condiments.Mocha;
 import intro.decoratorPattern.classes.condiments.Soy;
 import intro.decoratorPattern.classes.condiments.SteamedMilk;
